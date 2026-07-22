@@ -8,7 +8,7 @@ Hi, I'm Narahari Patil!
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/itsnarahari07">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
@@ -93,7 +93,7 @@ Hi, I'm Narahari Patil!
 ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Narahari Stats</b></summary>
+<summary><b>⚡ Narahari's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -117,7 +117,7 @@ Hi, I'm Narahari Patil!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/itsnarahari07">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
@@ -152,6 +152,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Narahari Patil](https://github.com/itsnarahari07)
 
-Last Edited on: 19/07/2022
+Last Edited on: 22/07/2026
