@@ -93,7 +93,7 @@ Hi, I'm Narahari Patil!
 ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Narahari Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -132,7 +132,7 @@ Hi, I'm Narahari Patil!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:naraharip2003@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
 
