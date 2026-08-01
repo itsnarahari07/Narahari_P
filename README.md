@@ -45,7 +45,7 @@
 ---
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://github.com/itsnarahari07/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radial&hide_border=true" alt="GitHub Streak" />
 </a>
 
