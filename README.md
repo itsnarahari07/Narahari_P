@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm NARAHARI PATIL 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=61AFEF&width=435&lines=Software+Engineering+Student;Backend+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Open+Source+Contributor" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Pursuing a Degree in Computer Science / Software Engineering
-- 💻 **Passionate About:** Backend Systems, Full-Stack Web/Mobile Apps, and AI Integrations
+- 🎓 **Education:** Graduated in Bachelor of Computer Application.
+- 💻 **Passionate About:** Backend Systems, Full-Stack Web and AI Integrations
 - 🛠️ **Currently Building:** Full-stack applications & AI-driven developer tools
-- 📚 **Currently Learning:** Advanced System Design, Cloud Architecture & DevOps
-- 💬 **Ask me about:** Java, Spring Boot, Flutter, React, REST APIs
+- 📚 **Currently Learning:** Advanced Java, MySQL and Web Technologies 
+- 💬 **Ask me about:** Java, React, REST APIs, MySQL 
 
 ---
 
@@ -23,8 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,10 +56,10 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/narahari-patil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:naraharip2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
