@@ -44,14 +44,9 @@
 
 ---
 
-<!-- GitHub Main Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<!-- Top Languages Used -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radial&hide_border=true" alt="GitHub Streak" />
 </a>
 
 ---
